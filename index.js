@@ -21,6 +21,7 @@ IN THE SOFTWARE.
 */
 
 // yes, I know this seems stupid, but I have my reasons.
+// BUT WHAT ARE THEY!??
 
 var net = require("net")
 for(k in net)
