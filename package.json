@@ -1,6 +1,6 @@
 {
   "name": "net",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description" : "Globalizes the 'net' module functions",
   "author": "Joe Hitchens <joe@sleepless.com> (sleepless.com)",
   "license": {
